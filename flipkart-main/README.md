@@ -1,14 +1,8 @@
 
-# Flipkar Clone MERN stack 
+# E-Commerce Website EkartGo MERN stack 
 
-Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart it has RazorPay Integration and get money from anywhere. This Flipkart clone with the best features in mobile, web, and iOS platforms, Completely responsive design using Material UI.
-- 🧪 **Kindly Please Support Me**
-  - I can provide brand-free products and full technical support for 1 year along with 1-year free update support and moreover
-- 👁 **Well typed**
-  - Clean JavaScript code with good folder structure.,
-- 📄 **Well documented**
-  - I can provide full reference & installation documentation alongside detailed guides through my Youtube Channel Sijeesh Miziha feel free to subscribe 
-  - If You supporting me., then I can also create the full lecture video from the scratch..,you can learn React.js as beginer 
+EkartGo is done with top-notch features for the entrepreneur startups. It has RazorPay Integration and get money from anywhere. This E-Commerce site for selling and buying with the best features in mobile, web, and iOS platforms, Completely responsive design using Material UI.
+
 - **Requirements to fork this repo**
    - Strong knowledge of JavaScript
    - React js, redux , redux-thunk , context
@@ -27,9 +21,9 @@ Flipkart Clone is done with top-notch features for the entrepreneur startups lik
 ![Screenshot from 2021-11-01 18-09-33](https://user-images.githubusercontent.com/91063960/139678737-8d069f75-9d7f-44ff-8e37-4be34ebc95cd.png)
 
   
-Flipkart is one of the best and trending eCommerce sites with a presence throughout India. The online shopping website is for Buying and Selling products online within the network.
+The online shopping website : EkartGo is for Buying and Selling products online within the network.
 
-Flipkart clone is a ready-made remarkable multi-vendor eCommerce site built-in compleatly JavaScript that helps Entrepreneurs can start their own business like Flipkart, which allows the vendors to add products & users to buy the products easily with just a click.
+EkartGo is a ready-made remarkable multi-vendor eCommerce site built-in compleatly JavaScript that helps Entrepreneurs can start their own business like Flipkart, which allows the vendors to add products & users to buy the products easily with just a click.
 ## Tech Stack
 
   - **MERN STACK** 
